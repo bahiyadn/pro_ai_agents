@@ -1,2 +1,9 @@
-# pro_ai_agents
-Автоматизация Telegram-канала про агентный ИИ: https://t.me/pro_ai_agents
+# Про ИИ Агентов (About AI agents)
+
+Автоматизация производства и публикации контента про агентный ИИ.
+
+Telegram: https://t.me/pro_ai_agents
+
+Документы проекта:
+- `docs/АнализПредметнойОбласти.md`;
+- `docs/ТЗ.md`.
